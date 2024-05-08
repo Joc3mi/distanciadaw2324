@@ -13,7 +13,7 @@ líneas
 para devs
 */
 
-echo "Añadida esta línea de código";
+echo "Añadida esta línea de códigos";
 
 /**
 *Suma 2 números
